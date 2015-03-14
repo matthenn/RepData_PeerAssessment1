@@ -3,6 +3,7 @@ title: "Reproducible research assig 1"
 author: "Matt Henn"
 date: "March 13, 2015"
 output: html_document
+keep_md: true
 ---
 ## Loading/preprocessing data
 The first step in this analysis is to download the data and get it in its raw form into R Studio. 
